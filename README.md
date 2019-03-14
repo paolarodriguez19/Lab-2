@@ -1,7 +1,9 @@
 # Lab-2
 Class: Programming Fundamentals (COMP112) - Laboratory #2 - String Class Methods in Java 
 
-package lab2; import java.text.*; 
+package lab2; 
+
+import java.text.*; 
 
 import java.text.DecimalFormat;
 
